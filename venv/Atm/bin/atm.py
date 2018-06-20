@@ -8,3 +8,4 @@ sys.path.append(BASE_DIR)
 from atmcore import main
 
 main.aa()
+print("aa.aa")
