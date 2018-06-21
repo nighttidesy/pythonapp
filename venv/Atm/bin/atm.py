@@ -10,3 +10,5 @@ from atmcore import main
 main.aa()
 print("aa.aa")
 print("aa.aa")
+print("aa.aa")
+print("test")
